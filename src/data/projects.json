@@ -13,7 +13,7 @@
     "description": "My personal portfolio website.",
     "skills": ["React", "Javascript", "HTML", "CSS"],
     "link": "https://mattsaia.netlify.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/msaia11/react-portfolio"
   },
   {
     "title": "ABV Value Calculator",
