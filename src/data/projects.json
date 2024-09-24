@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Math for Cash",
+    "imageSrc": "projects/mathForCash.png",
+    "description": "Mobile/Web application that allows users to answer simple math questions for the chance to win money.",
+    "skills": ["React Native", "Javascript", "Firebase"],
+    "link": "https://mathforcash.netlify.app/",
+    "source": "https://github.com/msaia11/mathForCashWeb"
+  },
+  {
+    "title": "My Portfolio Website",
+    "imageSrc": "projects/portfolioImage.png",
+    "description": "My personal portfolio website.",
+    "skills": ["React", "Javascript", "HTML", "CSS"],
+    "link": "https://mattsaia.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "ABV Value Calculator",
+    "imageSrc": "projects/abvValueCalculator.png",
+    "description": "Mobile application that compares ABV, volume, amd price across drinks to determine the best value.",
+    "skills": ["React Native", "Javascript"],
+    "link": "https://apps.apple.com/us/app/abv-value-calculator/id6445802629",
+    "source": "https://github.com/msaia11/ABVCalculator"
+  }
+]

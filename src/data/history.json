@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Epic",
+    "startDate": "Oct, 2021",
+    "endDate": "June, 2024",
+    "experiences": [
+      "Development Team Lead: Managed a team of up to four developers. Acted as the subject matter expert for Reporting on the Professional Billing team.",
+      "Project Leadership: Directed two web transition projects, as well as the development of a new data model for Outstanding AR in Epic’s data warehouse and self-service analytics tool.",
+      "Fix Squad Lead and Contributor: Oversaw a team dedicated to addressing and resolving bugs, ensuring minimal disruption for other project teams.",
+      "New Feature Development: Implemented new surcharge functionality and contributed to the development of the consolidation of self-pay processes into a unified service area"
+    ],
+    "imageSrc": "history/epic1.png"
+  },
+  {
+    "role": "Technical Solutions Engineer",
+    "organisation": "Epic",
+    "startDate": "Aug, 2018",
+    "endDate": "Oct, 2021",
+    "experiences": [
+      "Customer Support and Project Management: Served as the main contact for three distinct customers, managing application-specific issues and projects. Performed system builds, supported programming, handled change orders, and provided comprehensive customer support.", 
+      "Reporting Workgroup Member: Hosted office hours and provided email support to address reporting questions. Contributed to determining best practices for Professional Billing reporting.",
+      "License Count Owner: Maintained and updated the code that tracks licensing costs based on Professional Billing usage. Ensured accurate license tracking and compliance by overseeing the license count process and coordinating periodic customer runs."
+    ],
+    "imageSrc": "history/epic1.png"
+  },
+  {
+    "role": "Staff Analyst Intern",
+    "organisation": "applEcon, LLC",
+    "startDate": "May, 2017",
+    "endDate": "August, 2017",
+    "experiences": [
+      "Staff Analyst: Aid in the development of expert reports to be used as testimony in anti-trust litigation. Work product includes case analysis, data interpretation, exhibit construction, deposition summaries, and report editing."
+    ],
+    "imageSrc": "history/applEconIcon.png"
+  },
+  {
+    "role": "Business Development Intern",
+    "organisation": "Adaptive Surface Solutions (fka Slips Technologies)",
+    "startDate": "May, 2015",
+    "endDate": "August, 2016",
+    "experiences": [
+      "Customer Engagement: Screened hundreds of potential customers to identify high target strategic partners, less than 5% qualified to sign letters of intent to pursue joint development programs with us",
+      "Market Research in the marine coatings industry: Initiated and constructed a marine paint market survey to help drive our business plan in developing a marine paint product."
+    ],
+    "imageSrc": "history/slipsTechnologiesIcon.png"
+  }
+]
