@@ -16,16 +16,16 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Front-end Developer</h3>
               <p>
-              I have experience in JavaScript, TypeScript, HTML, and CSS, along with a foundation in building mobile applications using React Native.
+              I have experience in JavaScript, TypeScript, HTML, and CSS, along with a foundation in building web and mobile applications using React and React Native.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Back-end Developer</h3>
               <p>
               I've worked with C#.NET for web server applications, as well as MUMPS and SQL for server-side development.
               </p>

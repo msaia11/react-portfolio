@@ -1,5 +1,13 @@
 [
   {
+    "title": "Chel Guesser",
+    "imageSrc": "projects/chelGuesser.png",
+    "description": "NHL player guessing game on the web.",
+    "skills": ["React", "Javascript", "HTML", "CSS", "Firebase"],
+    "link": "https://chelguesser.netlify.app/",
+    "source": "https://github.com/msaia11/nhl-twenty-questions"
+  },
+  {
     "title": "Math for Cash",
     "imageSrc": "projects/mathForCash.png",
     "description": "Mobile/Web application that allows users to answer simple math questions for the chance to win money.",
